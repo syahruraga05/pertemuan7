@@ -36,7 +36,7 @@ untuk menyelesaikannya
 
 # Hasil output latihan 1 ketika di run sebagai berikut :
 
-![Gambar](gambar/capture2.png) <h2>
+![Gambar](gambar/Capture2.PNG) 
 
 ### Latihan 2
 # Soal latihan2
@@ -74,12 +74,12 @@ nilai terbesar diantara bilangan tersebut dalam perulangan.
 # Syntax latihan 2 sebagai berikut :
 
 
-![Gambar](gambar/capture3.png) 
+![Gambar](gambar/Capture3.PNG) 
 
 
 # Hasil output latihan 2 ketika di run sebagai berikut :
 
-![Gambar](gambar/capture4.png) <h2>
+![Gambar](gambar/Capture4.PNG) 
 
 ### Program 1
 # Soal program 1
@@ -140,12 +140,12 @@ ke 1 sampai bulan 8, hasilnya adalah total keuntungan yang didapat.
 
 ## Syntax program1 sebagai berikut :
 
-![Gambar](gambar/capture6.png) <h2>
+![Gambar](gambar/Capture6.PNG) 
 
 
 ## Hasil output program3 ketika run adalah sebagai berikut :
 
-![Gambar](gambar/capture5.png) <h2>
+![Gambar](gambar/Capture5.PNG) 
 
 
 
