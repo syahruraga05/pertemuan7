@@ -5,9 +5,9 @@ Nim	: 312010354
 ## Daftar Isi
 | No | Isi | Link |
 | -- | --- | ---- |
-| 1. | Latihan 1 |
-| 2. | Latihan 2 | 
-| 3. | Program 1 |
+| 1. | Latihan 1 | [penjelasan](#Latihan-1) |
+| 2. | Latihan 2 | [penjelasan](#latihan-2) |
+| 3. | Program 1 | [penjelasan](#program-1) |
 
 ### Latihan 1
 
@@ -32,7 +32,7 @@ untuk menyelesaikannya
 
 # Syntax latihan 1 sebagai berikut:
 
-![Github Logo](gambar/Capture1.png)
+![Gambar](gambar/Capture1.PNG)
 
 # Hasil output latihan 1 ketika di run sebagai berikut :
 
