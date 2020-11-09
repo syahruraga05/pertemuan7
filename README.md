@@ -1,7 +1,7 @@
 ## Tugas Melengkapi Pertemuan ke 7
-Nama	: Syahru Raga Ramdhani
-Kelas	: TI.20.A.2
-Nim	: 312010354
+Nama	: Syahru Raga Ramdhani <br>
+Kelas	: TI.20.A.2 <br>
+Nim	: 312010354 <br>
 ## Daftar Isi
 | No | Isi | Link |
 | -- | --- | ---- |
