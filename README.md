@@ -32,7 +32,7 @@ untuk menyelesaikannya
 
 # Syntax latihan 1 sebagai berikut:
 
-![Github Logo](gambar/capture1.png)
+![Github Logo](gambar/Capture1.png)
 
 # Hasil output latihan 1 ketika di run sebagai berikut :
 
