@@ -1,14 +1,13 @@
-# labpy03
-## Tugas Melengkapi Praktikum 3
+## Tugas Melengkapi Pertemuan ke 7
 Nama	: Syahru Raga Ramdhani
 Kelas	: TI.20.A.2
 Nim	: 312010354
 ## Daftar Isi
-| No | ISI | Link | Source Code |
-| -- | --- | ---- | ----------- |
-| 1. | Latihan 1 | [penjelasan](#Latihan-1)
-| 2. | Latihan 2 | [penjelasan](#latihan-2) 
-| 3. | Program 1 | [penjelasan](#program-1) 
+| No | Isi | Link |
+| -- | --- | ---- |
+| 1. | Latihan 1 |
+| 2. | Latihan 2 | 
+| 3. | Program 1 |
 
 ### Latihan 1
 
@@ -31,9 +30,9 @@ untuk menyelesaikannya
 5. Mencetak data ke 1 sampai 5 dengan hasil nilai kurang dari 0,5.
 6. Selesai
 
-# Syntak latihan 1 sebagai berikut:
+# Syntax latihan 1 sebagai berikut:
 
-![Gambar](gambar/capture1.png)
+![Github Logo](gambar/capture1.png)
 
 # Hasil output latihan 1 ketika di run sebagai berikut :
 
