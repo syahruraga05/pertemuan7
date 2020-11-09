@@ -150,4 +150,5 @@ ke 1 sampai bulan 8, hasilnya adalah total keuntungan yang didapat.
 
 
 
-##TERIMAKASIH
+## TERIMA KASIH
+ 
