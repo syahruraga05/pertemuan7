@@ -1,10 +1,10 @@
-import random
-print(39*"=")
-print("Bilangan acak yang lebih kecil dari 0,5")
-print(39*"=")
-jum = int( input("Masukan nilai n : "))
-i = 0
-for i in range(jum):
-    i += 1
-    angkaDec = random.uniform(0, 0.5)
-    print("Data ke", i, " = ", angkaDec)
+print("menampilkan bilangan terbesar dari n, berhenti ketika bilangan 0")
+
+max=0
+while True:
+    a=int(input("Masukkan Bilangan = "))
+    if max < a :
+        max = a
+    if a==0:
+        break
+print("Bilangan Terbesar adalah = ",max)
